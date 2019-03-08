@@ -1,0 +1,160 @@
+
+{
+    "code": "0000",
+    "msg": "操作成功",
+    "data": {
+        "phoneList": [
+                      {
+                      "phone": "18212348888",
+                      "state": "0",
+                      "goodsTypeList": [
+                                        {
+                                        "goodsType": "0",
+                                        "goodsTypeName": "常温商品",
+                                        "amount": "10",
+                                        "goodsList": [
+                                                      {
+                                                      "goodsName": "美的智能电饭锅",
+                                                      "num": "2",
+                                                      "property": "规格型号：乳白色 锅盖一体",
+                                                      "unit": "箱"
+                                                      },
+                                                      {
+                                                      "goodsName": "夏季拖鞋",
+                                                      "num": "2",
+                                                      "property": "规格型号：粉红色 36～37码",
+                                                      "unit": "个"
+                                                      },
+                                                      {
+                                                      "goodsName": "组合果蔬篮",
+                                                      "num": "3",
+                                                      "property": "规格型号：乳白色 中号",
+                                                      "unit": "件"
+                                                      }
+                                                      ]
+                                        },
+                                        {
+                                        "goodsType": "1",
+                                        "goodsTypeName": "快递",
+                                        "amount": 10,
+                                        "goodsList": [
+                                                      {
+                                                      "type": "代购",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "type": "代收",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "未达"
+                                                      },
+                                                      {
+                                                      "type": "代购",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "已达"
+                                                      }
+                                                      ]
+                                        },
+                                        {
+                                        "goodsType": "2",
+                                        "goodsTypeName": "商户订单",
+                                        "amount": 10,
+                                        "goodsList": [
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      }
+                                                      ]
+                                        }
+                                        ]
+                      },
+                      {
+                      "phone": "1999999999",
+                      "state": "0",
+                      "goodsTypeList": [
+                                        {
+                                        "goodsType": "0",
+                                        "goodsTypeName": "常温商品",
+                                        "amount": "10",
+                                        "goodsList": [
+                                                      {
+                                                      "goodsName": "美的智能电饭锅",
+                                                      "num": "2",
+                                                      "property": "规格型号：乳白色 锅盖一体",
+                                                      "unit": "箱"
+                                                      },
+                                                      {
+                                                      "goodsName": "夏季拖鞋",
+                                                      "num": "2",
+                                                      "property": "规格型号：粉红色 36～37码",
+                                                      "unit": "个"
+                                                      },
+                                                      {
+                                                      "goodsName": "组合果蔬篮",
+                                                      "num": "3",
+                                                      "property": "规格型号：乳白色 中号",
+                                                      "unit": "件"
+                                                      }
+                                                      ]
+                                        },
+                                        {
+                                        "goodsType": "1",
+                                        "goodsTypeName": "快递",
+                                        "amount": 10,
+                                        "goodsList": [
+                                                      {
+                                                      "type": "代购",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "type": "代收",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "未达"
+                                                      },
+                                                      {
+                                                      "type": "代购",
+                                                      "expressInfo": "中通：23454788888",
+                                                      "state": "已达"
+                                                      }
+                                                      ]
+                                        },
+                                        {
+                                        "goodsType": "2",
+                                        "goodsTypeName": "商户订单",
+                                        "amount": "10",
+                                        "goodsList": [
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      },
+                                                      {
+                                                      "orderId": "物流单号：23454788888",
+                                                      "boxId": "货位：云柜：1232",
+                                                      "state": "已达"
+                                                      }
+                                                      ]
+                                        }
+                                        ]
+                      }
+                      ]
+    }
+}
+
